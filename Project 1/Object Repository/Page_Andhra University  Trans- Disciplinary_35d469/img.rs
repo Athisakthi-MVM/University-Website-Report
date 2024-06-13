@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>61bba2df-4194-44bd-ad05-0847d093aa9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://www.andhrauniversity.edu.in/academics/research-centres/res1.jpg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xl-5.col-md-12 > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>07781d3a-8b02-47be-9257-ee368f0c50ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.andhrauniversity.edu.in/academics/research-centres/res1.jpg</value>
+      <webElementGuid>37c917d5-c2ca-454f-b7dd-75c3d56ffbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;page-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;profile&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-5 col-md-12&quot;]/img[1]</value>
+      <webElementGuid>53856173-940e-4a99-bdd3-8bfad76b65e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.andhrauniversity.edu.in/academics/research-centres/res1.jpg')]</value>
+      <webElementGuid>a63a2ad4-32e6-4929-88d5-800a77d69247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>4ecee4ef-85b7-4710-8c2e-be3cba4a2ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.andhrauniversity.edu.in/academics/research-centres/res1.jpg']</value>
+      <webElementGuid>7f0f3873-5ada-4f94-8091-6353e6338a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Accessment 1" time="240.688" tests="5" failures="1" errors="0">
+   <testsuite name="Accessment 1" tests="5" failures="1" errors="0" time="240.688" skipped="0" timestamp="13-06-2024T14:30:16" hostname="HP - 20.23.0.61" id="Test Suites/Andhra University/Accessment 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003"/>
+         <property name="logFiles" value="C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\1718269390256.png, C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\1718269411984.png, C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\1718269433886.png, C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\1718269456643.png"/>
+         <property name="hostName" value="HP - 20.23.0.61"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="20.23.0.61"/>
+         <property name="sessionId" value="de8648c7726e6ac17c97921a175da9ec"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Accessment 1/Academic" time="50.672" classname="Test Cases/Accessment 1/Academic" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:30:16 - [TEST_CASE][PASSED] - Test Cases/Accessment 1/Academic: Test Cases/Accessment 1/Academic
+
+13-06-2024T14:30:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:30:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:30:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:30:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:30:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.andhrauniversity.edu.in/"): Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:30:33 - [MESSAGE][PASSED] - Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:30:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:30:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:30:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Academics")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Academics' is clicked on
+
+13-06-2024T14:30:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Academics' is clicked on
+
+13-06-2024T14:30:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_A.U Trans-Disciplinary Hub")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_A.U Trans-Disciplinary Hub' is clicked on
+
+13-06-2024T14:30:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_A.U Trans-Disciplinary Hub' is clicked on
+
+13-06-2024T14:30:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result' is clicked on
+
+13-06-2024T14:30:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result' is clicked on
+
+13-06-2024T14:30:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/img")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/img' is clicked on
+
+13-06-2024T14:30:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/img' is clicked on
+
+13-06-2024T14:30:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/b_On successful completion of the Doctoral _680601")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/b_On successful completion of the Doctoral _680601' is clicked on
+
+13-06-2024T14:30:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/b_On successful completion of the Doctoral _680601' is clicked on
+
+13-06-2024T14:30:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/span__fas fa-bars")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/span__fas fa-bars' is clicked on
+
+13-06-2024T14:30:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/span__fas fa-bars' is clicked on
+
+13-06-2024T14:30:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/section_Name  Prof. M. James Stephen       _acda29")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/section_Name  Prof. M. James Stephen       _acda29' is clicked on
+
+13-06-2024T14:30:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/section_Name  Prof. M. James Stephen       _acda29' is clicked on
+
+13-06-2024T14:30:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result' is clicked on
+
+13-06-2024T14:30:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result' is clicked on
+
+13-06-2024T14:30:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Web Mail")): Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Web Mail' is clicked on
+
+13-06-2024T14:30:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Web Mail' is clicked on
+
+13-06-2024T14:30:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:31:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Accessment 1/Administration" time="32.957" classname="Test Cases/Accessment 1/Administration" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:31:07 - [TEST_CASE][PASSED] - Test Cases/Accessment 1/Administration: Test Cases/Accessment 1/Administration
+
+13-06-2024T14:31:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:31:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:31:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:31:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:31:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.andhrauniversity.edu.in/"): Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:31:30 - [MESSAGE][PASSED] - Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:31:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:31:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:31:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Administration")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Administration' is clicked on
+
+13-06-2024T14:31:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Administration' is clicked on
+
+13-06-2024T14:31:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Executive Council")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Executive Council' is clicked on
+
+13-06-2024T14:31:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Executive Council' is clicked on
+
+13-06-2024T14:31:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Executive Council/td_Dept. of Civil Engineering, AU College o_1cab9a")): Object: 'Object Repository/Page_Andhra University  Executive Council/td_Dept. of Civil Engineering, AU College o_1cab9a' is clicked on
+
+13-06-2024T14:31:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Executive Council/td_Dept. of Civil Engineering, AU College o_1cab9a' is clicked on
+
+13-06-2024T14:31:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Executive Council/a_AU Menu")): Object: 'Object Repository/Page_Andhra University  Executive Council/a_AU Menu' is clicked on
+
+13-06-2024T14:31:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Executive Council/a_AU Menu' is clicked on
+
+13-06-2024T14:31:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Executive Council/button__navbar-toggler p-0 border-0")): Object: 'Object Repository/Page_Andhra University  Executive Council/button__navbar-toggler p-0 border-0' is clicked on
+
+13-06-2024T14:31:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Executive Council/button__navbar-toggler p-0 border-0' is clicked on
+
+13-06-2024T14:31:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Executive Council/a_Administration")): Object: 'Object Repository/Page_Andhra University  Executive Council/a_Administration' is clicked on
+
+13-06-2024T14:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Executive Council/a_Administration' is clicked on
+
+13-06-2024T14:31:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Executive Council/a_Administrative Orgonogram")): Object: 'Object Repository/Page_Andhra University  Executive Council/a_Administrative Orgonogram' is clicked on
+
+13-06-2024T14:31:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Executive Council/a_Administrative Orgonogram' is clicked on
+
+13-06-2024T14:31:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:31:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Accessment 1/Examination" time="36.999" classname="Test Cases/Accessment 1/Examination" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:31:40 - [TEST_CASE][PASSED] - Test Cases/Accessment 1/Examination: Test Cases/Accessment 1/Examination
+
+13-06-2024T14:31:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:31:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:31:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:31:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:31:41 - [TEST_STEP][PASSED] - navigateToUrl("https://www.andhrauniversity.edu.in/"): Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:31:56 - [MESSAGE][PASSED] - Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:31:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:31:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:31:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Examinations")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Examinations' is clicked on
+
+13-06-2024T14:31:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Examinations' is clicked on
+
+13-06-2024T14:31:57 - [TEST_STEP][PASSED] - switchToWindowTitle("Andhra University Examination Computerization System & Certificate Genuineness Verification"): Switched to window with title: 'Andhra University Examination Computerization System & Certificate Genuineness Verification'
+
+13-06-2024T14:31:59 - [MESSAGE][PASSED] - Switched to window with title: 'Andhra University Examination Computerization System & Certificate Genuineness Verification'
+
+13-06-2024T14:31:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University Examination Computer_2bdc77/a_Services")): Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_Services' is clicked on
+
+13-06-2024T14:32:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_Services' is clicked on
+
+13-06-2024T14:32:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University Examination Computer_2bdc77/a_results")): Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_results' is clicked on
+
+13-06-2024T14:32:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_results' is clicked on
+
+13-06-2024T14:32:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University Examination Computer_2bdc77/a_pg login")): Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_pg login' is clicked on
+
+13-06-2024T14:32:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_pg login' is clicked on
+
+13-06-2024T14:32:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University Examination Computer_2bdc77/a_ug login")): Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_ug login' is clicked on
+
+13-06-2024T14:32:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University Examination Computer_2bdc77/a_ug login' is clicked on
+
+13-06-2024T14:32:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_AU/p_Copyright  2020 Andhra University. All ri_135de0")): Object: 'Object Repository/Page_AU/p_Copyright  2020 Andhra University. All ri_135de0' is clicked on
+
+13-06-2024T14:32:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_AU/p_Copyright  2020 Andhra University. All ri_135de0' is clicked on
+
+13-06-2024T14:32:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_AU/div_HOME                                   _e8a884")): Object: 'Object Repository/Page_AU/div_HOME                                   _e8a884' is clicked on
+
+13-06-2024T14:32:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_AU/div_HOME                                   _e8a884' is clicked on
+
+13-06-2024T14:32:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_AU/a_Mon-Sat  1000 AM to 530 PM_meanmenu-reveal")): Object: 'Object Repository/Page_AU/a_Mon-Sat  1000 AM to 530 PM_meanmenu-reveal' is clicked on
+
+13-06-2024T14:32:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_AU/a_Mon-Sat  1000 AM to 530 PM_meanmenu-reveal' is clicked on
+
+13-06-2024T14:32:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_AU/a_SPECIAL HALLTICKETS")): Object: 'Object Repository/Page_AU/a_SPECIAL HALLTICKETS' is clicked on
+
+13-06-2024T14:32:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_AU/a_SPECIAL HALLTICKETS' is clicked on
+
+13-06-2024T14:32:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_AU/a_Semester")): Object: 'Object Repository/Page_AU/a_Semester' is clicked on
+
+13-06-2024T14:32:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_AU/a_Semester' is clicked on
+
+13-06-2024T14:32:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:32:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Accessment 1/Home Page" time="29.537" classname="Test Cases/Accessment 1/Home Page" status="PASSED">
+         <system-out><![CDATA[13-06-2024T14:32:17 - [TEST_CASE][PASSED] - Test Cases/Accessment 1/Home Page: Test Cases/Accessment 1/Home Page
+
+13-06-2024T14:32:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:32:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:32:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:32:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:32:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.andhrauniversity.edu.in/"): Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:32:31 - [MESSAGE][PASSED] - Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:32:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/li_APSET-2024")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/li_APSET-2024' is clicked on
+
+13-06-2024T14:32:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/li_APSET-2024' is clicked on
+
+13-06-2024T14:32:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/li_AU Looks")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/li_AU Looks' is clicked on
+
+13-06-2024T14:32:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/li_AU Looks' is clicked on
+
+13-06-2024T14:32:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(Digital Manuscript Repository)")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(Digital Manuscript Repository)' is clicked on
+
+13-06-2024T14:32:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(Digital Manuscript Repository)' is clicked on
+
+13-06-2024T14:32:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(E- Resources)")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(E- Resources)' is clicked on
+
+13-06-2024T14:32:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(E- Resources)' is clicked on
+
+13-06-2024T14:32:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Academic Calender")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Academic Calender' is clicked on
+
+13-06-2024T14:32:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Academic Calender' is clicked on
+
+13-06-2024T14:32:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_UG Syllabus")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_UG Syllabus' is clicked on
+
+13-06-2024T14:32:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_UG Syllabus' is clicked on
+
+13-06-2024T14:32:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_PG  Professional Syllabus")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_PG  Professional Syllabus' is clicked on
+
+13-06-2024T14:32:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_PG  Professional Syllabus' is clicked on
+
+13-06-2024T14:32:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_AUCMS")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AUCMS' is clicked on
+
+13-06-2024T14:32:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_AUCMS' is clicked on
+
+13-06-2024T14:32:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-06-2024T14:32:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Student Corner" time="22.587" classname="Test Cases/Student Corner" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Student Corner FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)&#xa;	at Student Corner.run(Student Corner:34)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable&#xa;  (Session info: chrome=125.0.6422.144)&#xa;Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'&#xa;System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'&#xa;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#xa;Session ID: de8648c7726e6ac17c97921a175da9ec&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xa;	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xa;	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)&#xa;	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)&#xa;	at org.openqa.selenium.WebElement$click.call(Unknown Source)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[13-06-2024T14:33:54 - [TEST_CASE][FAILED] - Test Cases/Student Corner: Test Cases/Student Corner FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de8648c7726e6ac17c97921a175da9ec
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+13-06-2024T14:33:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-06-2024T14:33:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+13-06-2024T14:33:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-06-2024T14:33:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-06-2024T14:33:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-06-2024T14:33:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www.andhrauniversity.edu.in/"): Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:34:13 - [MESSAGE][PASSED] - Navigate to 'https://www.andhrauniversity.edu.in/' successfully
+
+13-06-2024T14:34:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:34:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars' is clicked on
+
+13-06-2024T14:34:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner' is clicked on
+
+13-06-2024T14:34:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner' is clicked on
+
+13-06-2024T14:34:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Student Events")): Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Events' is clicked on
+
+13-06-2024T14:34:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Events' is clicked on
+
+13-06-2024T14:34:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Academic Calendar/img")): Object: 'Object Repository/Page_Andhra University  Academic Calendar/img' is clicked on
+
+13-06-2024T14:34:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Academic Calendar/img' is clicked on
+
+13-06-2024T14:34:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Andhra University  Academic Calendar/h4_Inauguration -  Andhra TECH League -2023")): Object: 'Object Repository/Page_Andhra University  Academic Calendar/h4_Inauguration -  Andhra TECH League -2023' is clicked on
+
+13-06-2024T14:34:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Andhra University  Academic Calendar/h4_Inauguration -  Andhra TECH League -2023' is clicked on
+
+13-06-2024T14:34:16 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner")): Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de8648c7726e6ac17c97921a175da9ec
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1718268850933.run(Script1718268850933.groovy:34)
+	... 18 more
+)
+
+13-06-2024T14:34:17 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de8648c7726e6ac17c97921a175da9ec
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1718268850933.run(Script1718268850933.groovy:34)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\HP\\Katalon Studio\\Project 1\\Reports\\20240613_143003\\Andhra University\\Accessment 1\\20240613_143003\\1718269456643.png]]]]></system-out>
+         <system-err><![CDATA[13-06-2024T14:33:54 - [TEST_CASE][FAILED] - Test Cases/Student Corner: Test Cases/Student Corner FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de8648c7726e6ac17c97921a175da9ec
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-06-2024T14:30:16 - [TEST_SUITE][FAILED] - Accessment 1: Test Cases/Student Corner FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62211}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25a0e1d27fb2ae0aad4538c51a5c4b24
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[13-06-2024T14:30:16 - [TEST_SUITE][FAILED] - Accessment 1: Test Cases/Student Corner FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Student Corner.run(Student Corner:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718269203257.run(TempTestSuite1718269203257.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=125.0.6422.144)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'RUSALABI8', ip: '20.23.0.61', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.144, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62211}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25a0e1d27fb2ae0aad4538c51a5c4b24
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

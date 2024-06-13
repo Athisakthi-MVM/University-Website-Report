@@ -1,0 +1,70 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Accessment 1,Chrome 125.0.0.0,,,13-06-2024 14:30:16,13-06-2024 14:34:17,4m - 0.688s,FAILED
+,,,,,,,
+Test Cases/Accessment 1/Academic,Chrome 125.0.0.0,,,13-06-2024 14:30:16,13-06-2024 14:31:07,50.672s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:30:16,13-06-2024 14:30:19,2.329s,PASSED
+"navigateToUrl(""https://www.andhrauniversity.edu.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:30:19,13-06-2024 14:30:33,13.953s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 14:30:33,13-06-2024 14:30:33,0.510s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Academics""))",Chrome 125.0.0.0,,,13-06-2024 14:30:33,13-06-2024 14:30:34,0.475s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_A.U Trans-Disciplinary Hub""))",Chrome 125.0.0.0,,,13-06-2024 14:30:34,13-06-2024 14:30:35,1.542s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result""))",Chrome 125.0.0.0,,,13-06-2024 14:30:35,13-06-2024 14:30:36,0.510s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/img""))",Chrome 125.0.0.0,,,13-06-2024 14:30:36,13-06-2024 14:30:38,2.254s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/b_On successful completion of the Doctoral _680601""))",Chrome 125.0.0.0,,,13-06-2024 14:30:38,13-06-2024 14:30:40,2.036s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/span__fas fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 14:30:40,13-06-2024 14:30:42,2.043s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/section_Name  Prof. M. James Stephen       _acda29""))",Chrome 125.0.0.0,,,13-06-2024 14:30:42,13-06-2024 14:30:44,1.896s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Research Review Meeting (RRM) - July 2023 Result""))",Chrome 125.0.0.0,,,13-06-2024 14:30:44,13-06-2024 14:30:46,2.094s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Trans- Disciplinary_35d469/a_Web Mail""))",Chrome 125.0.0.0,,,13-06-2024 14:30:46,13-06-2024 14:30:48,2.031s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:30:48,13-06-2024 14:31:07,18.643s,PASSED
+,,,,,,,
+Test Cases/Accessment 1/Administration,Chrome 125.0.0.0,,,13-06-2024 14:31:07,13-06-2024 14:31:40,32.957s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:31:07,13-06-2024 14:31:08,1.359s,PASSED
+"navigateToUrl(""https://www.andhrauniversity.edu.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:31:08,13-06-2024 14:31:30,21.997s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 14:31:30,13-06-2024 14:31:31,0.396s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 14:31:31,13-06-2024 14:31:31,0.725s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Executive Council""))",Chrome 125.0.0.0,,,13-06-2024 14:31:31,13-06-2024 14:31:32,0.587s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Executive Council/td_Dept. of Civil Engineering, AU College o_1cab9a""))",Chrome 125.0.0.0,,,13-06-2024 14:31:32,13-06-2024 14:31:32,0.367s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Executive Council/a_AU Menu""))",Chrome 125.0.0.0,,,13-06-2024 14:31:32,13-06-2024 14:31:33,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Executive Council/button__navbar-toggler p-0 border-0""))",Chrome 125.0.0.0,,,13-06-2024 14:31:33,13-06-2024 14:31:33,0.433s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Executive Council/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 14:31:33,13-06-2024 14:31:34,0.313s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Executive Council/a_Administrative Orgonogram""))",Chrome 125.0.0.0,,,13-06-2024 14:31:34,13-06-2024 14:31:35,0.835s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:31:35,13-06-2024 14:31:40,5.254s,PASSED
+,,,,,,,
+Test Cases/Accessment 1/Examination,Chrome 125.0.0.0,,,13-06-2024 14:31:40,13-06-2024 14:32:17,36.999s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:31:40,13-06-2024 14:31:41,1.348s,PASSED
+"navigateToUrl(""https://www.andhrauniversity.edu.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:31:41,13-06-2024 14:31:56,14.410s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 14:31:56,13-06-2024 14:31:56,0.324s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Examinations""))",Chrome 125.0.0.0,,,13-06-2024 14:31:56,13-06-2024 14:31:57,0.611s,PASSED
+"switchToWindowTitle(""Andhra University Examination Computerization System & Certificate Genuineness Verification"")",Chrome 125.0.0.0,,,13-06-2024 14:31:57,13-06-2024 14:31:59,2.787s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University Examination Computer_2bdc77/a_Services""))",Chrome 125.0.0.0,,,13-06-2024 14:31:59,13-06-2024 14:32:02,2.671s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University Examination Computer_2bdc77/a_results""))",Chrome 125.0.0.0,,,13-06-2024 14:32:02,13-06-2024 14:32:05,2.943s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University Examination Computer_2bdc77/a_pg login""))",Chrome 125.0.0.0,,,13-06-2024 14:32:05,13-06-2024 14:32:06,1.145s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University Examination Computer_2bdc77/a_ug login""))",Chrome 125.0.0.0,,,13-06-2024 14:32:06,13-06-2024 14:32:13,6.638s,PASSED
+"click(findTestObject(""Object Repository/Page_AU/p_Copyright  2020 Andhra University. All ri_135de0""))",Chrome 125.0.0.0,,,13-06-2024 14:32:13,13-06-2024 14:32:13,0.336s,PASSED
+"click(findTestObject(""Object Repository/Page_AU/div_HOME                                   _e8a884""))",Chrome 125.0.0.0,,,13-06-2024 14:32:13,13-06-2024 14:32:13,0.307s,PASSED
+"click(findTestObject(""Object Repository/Page_AU/a_Mon-Sat  1000 AM to 530 PM_meanmenu-reveal""))",Chrome 125.0.0.0,,,13-06-2024 14:32:13,13-06-2024 14:32:14,0.313s,PASSED
+"click(findTestObject(""Object Repository/Page_AU/a_SPECIAL HALLTICKETS""))",Chrome 125.0.0.0,,,13-06-2024 14:32:14,13-06-2024 14:32:14,0.547s,PASSED
+"click(findTestObject(""Object Repository/Page_AU/a_Semester""))",Chrome 125.0.0.0,,,13-06-2024 14:32:14,13-06-2024 14:32:15,0.389s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:32:15,13-06-2024 14:32:17,2.089s,PASSED
+,,,,,,,
+Test Cases/Accessment 1/Home Page,Chrome 125.0.0.0,,,13-06-2024 14:32:17,13-06-2024 14:32:46,29.537s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:32:17,13-06-2024 14:32:18,1.057s,PASSED
+"navigateToUrl(""https://www.andhrauniversity.edu.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:32:18,13-06-2024 14:32:31,13.079s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/li_APSET-2024""))",Chrome 125.0.0.0,,,13-06-2024 14:32:31,13-06-2024 14:32:32,0.674s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/li_AU Looks""))",Chrome 125.0.0.0,,,13-06-2024 14:32:32,13-06-2024 14:32:32,0.336s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(Digital Manuscript Repository)""))",Chrome 125.0.0.0,,,13-06-2024 14:32:32,13-06-2024 14:32:33,0.727s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_AU Library(E- Resources)""))",Chrome 125.0.0.0,,,13-06-2024 14:32:33,13-06-2024 14:32:34,1.246s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Academic Calender""))",Chrome 125.0.0.0,,,13-06-2024 14:32:34,13-06-2024 14:32:36,1.990s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_UG Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 14:32:36,13-06-2024 14:32:38,2.031s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_PG  Professional Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 14:32:38,13-06-2024 14:32:40,2.023s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_AUCMS""))",Chrome 125.0.0.0,,,13-06-2024 14:32:40,13-06-2024 14:32:42,1.935s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:32:42,13-06-2024 14:32:46,4.299s,PASSED
+,,,,,,,
+Test Cases/Student Corner,Chrome 125.0.0.0,,,13-06-2024 14:33:54,13-06-2024 14:34:17,22.587s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:33:54,13-06-2024 14:33:57,3.182s,PASSED
+"navigateToUrl(""https://www.andhrauniversity.edu.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:33:57,13-06-2024 14:34:13,15.380s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/span__navbar-toggler-icon fas fa-bars""))",Chrome 125.0.0.0,,,13-06-2024 14:34:13,13-06-2024 14:34:13,0.315s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner""))",Chrome 125.0.0.0,,,13-06-2024 14:34:13,13-06-2024 14:34:14,0.837s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Student Events""))",Chrome 125.0.0.0,,,13-06-2024 14:34:14,13-06-2024 14:34:15,1.156s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Academic Calendar/img""))",Chrome 125.0.0.0,,,13-06-2024 14:34:15,13-06-2024 14:34:15,0.389s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Academic Calendar/h4_Inauguration -  Andhra TECH League -2023""))",Chrome 125.0.0.0,,,13-06-2024 14:34:15,13-06-2024 14:34:16,0.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Andhra University  Visakhapatnam/a_Student Corner""))",Chrome 125.0.0.0,,,13-06-2024 14:34:16,13-06-2024 14:34:17,0.714s,FAILED
